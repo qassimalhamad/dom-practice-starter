@@ -227,6 +227,20 @@ article .figcaption{
     mix-blend-mode: multiply;
     width: 100%;
 }
+.classChangeColor{
+    background-color: black;
+    color: white;
+}
+
+.fa-moon:hover{
+    text-decoration: underline ;
+    text-decoration-thickness: 1px;
+}
+.fa-sun:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+
+}
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
 @media only all and (max-width: 1200px) {
